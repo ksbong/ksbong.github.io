@@ -19,4 +19,6 @@ intro:
 
 Body
 
+Department of Artificial Intelligence, Sangbong Kim
+
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
